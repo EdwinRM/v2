@@ -6,7 +6,6 @@
           @keyup.enter="addTask"
             outlined
             label="Add task"
-            append-icon="mdi-plus"
             hide-details
             clearable
           ></v-text-field>
